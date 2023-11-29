@@ -1,0 +1,16 @@
+{
+  "name": "cv-feed-backend",
+  "version": "0.1.0",
+  "description": "CVs scraper with REST API server",
+  "author": "Turar Abu",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turarabu/cv-feed-backend.git"
+  },
+  "keywords": ["cv", "scraper"],
+  "bugs": {
+    "url": "https://github.com/turarabu/cv-feed-backend/issues"
+  },
+  "homepage": "https://github.com/turarabu/cv-feed-backend#readme"
+}
